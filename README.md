@@ -1,11 +1,17 @@
 # RECO
 
 algo lyra2z
+
 MN collateral 2000 coins
+
 block time 60s
+
 Maximum supply: 21 000 000 
+
 Coins matur: 480 blocks
+
 Minimum staking age: 4 hours (240 blocks)
+
 Rewards MN/pos 75/25%
 
 start
